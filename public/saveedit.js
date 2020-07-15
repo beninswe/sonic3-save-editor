@@ -8,7 +8,7 @@
 const CONSOLE_SIZE = 512;
 const PC_SIZE      = 1024;
 const STEAM_SIZE   = 163888;
-const AIR_SIZE     = 232;
+const AIR_SIZE     = 398;
 
 // file names and locations
 const DEFAULT_SAVE_FILE = "saves/defaults.srm";
