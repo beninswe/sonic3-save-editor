@@ -51,7 +51,7 @@ const AIR_IDENTIFIER = "OXY.PDATA\x00\x01";
 const AIR_START = 0x013;
 const AIR_PREFIX = "SRAM_";
 const AIR_SECTION_SP = "SRAM_SaveslotsP";
-const AIR_SECTION_CP = "SRAM_CompetitionRecordsP";
+const AIR_SECTION_CP = "SRAM_SaveslotsExt";
 
 // characters
 const NOBODY = -1;
